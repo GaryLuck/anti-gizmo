@@ -1,0 +1,14 @@
+{
+  "name": "anti-gizmo-robo-roll",
+  "version": "1.0.0",
+  "description": "Robo Roll - Junkyard Collector HTML5 Game for iPad",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
